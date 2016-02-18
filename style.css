@@ -1,4 +1,6 @@
 body {
   background-image: url("http://cdn.designbeep.com/wp-content/uploads/2012/01/11.free-carbon-fiber-textures.jpg");
   background-repeat: no-repeat;
+  resize: both;
+  overflow: auto;
 }
