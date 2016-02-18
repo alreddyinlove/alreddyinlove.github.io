@@ -1,5 +1,5 @@
 # alreddyinlove.github.io
-Love,
-Politicaly incorrect
-DogeCopter
-Lucario
+# Love,
+# Politicaly incorrect
+# DogeCopter
+# Lucario
